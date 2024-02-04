@@ -41,8 +41,9 @@ pip install flask
 To use Next Birthday API, follow these steps:
 
 ```bash
-flask run
-Then, navigate to http://127.0.0.1:5000/GetNextBirthday/YYYY-MM-DD in your browser or API client, replacing YYYY-MM-DD with the date of birth you want to query.
 
+flask run
+Then, navigate to http://127.0.0.1:5000/GetNextBirthday/YYYY-MM-DD in your browser or API client.
+Replace YYYY-MM-DD with the date of birth you want to query.
 
 ```
