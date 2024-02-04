@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+
+# Flask instance folder
+instance/
+
+# Log files
+*.log
+
+# If you have sqlite database
+*.sqlite
+
